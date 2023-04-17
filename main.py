@@ -1,9 +1,9 @@
-print("Hello Visala")
+print("hello world")
 
 
 def welcome():
-    print("Welcome to github actions")
-  
-  
-print("This is for learning github actions")
-welcome()                                                                                                                                                                                                                
+    print("welcome to Intellipaat")
+
+
+print("This is a tutorial for GitHub Actions")
+welcome()                                                                                                                                                                                                       
