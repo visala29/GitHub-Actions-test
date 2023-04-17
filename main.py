@@ -6,4 +6,4 @@ def welcome():
 
 
 print("This is a tutorial for GitHub Actions")
-welcome()                                                                                                                                                                                                       
+welcome()                                                                                                                                                                                                      
